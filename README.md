@@ -13,5 +13,4 @@ If you are developing a production application, we recommend using TypeScript an
 
 “Tired of coding and staring at bugs all day? 😵‍💻
 Take a break and refresh your mind with some laughter 😂
-Visit our website for fun, memes, and good vibes: [Visit Google](href="https://sunshinepulse.com/)
-👉 (https://sunshinepulse.com/)”
+Visit our website for fun, memes, and good vibes: [Visit Puns](href="https://sunshinepulse.com/)
